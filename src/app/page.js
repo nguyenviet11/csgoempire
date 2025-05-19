@@ -38,7 +38,7 @@ export default function Home() {
         <p className={styles.text5}>
           Requests from malicious bots can pose as legitimate traffic.
           Occasionally, you may see this page while the site ensures that the
-          connection is secure.
+          connection is secure
         </p>
       </main>
     </div>
