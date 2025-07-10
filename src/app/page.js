@@ -15,7 +15,7 @@ export default function Home() {
     >
       <main className={styles.main}>
         <h3 className={styles.text}>
-        CSGOEmpire Official Site{" "}
+        SciSpace Official Site{" "}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
@@ -27,7 +27,7 @@ export default function Home() {
         </p>
         <p className={styles.text3}>
           We needs to review the security of your connection before proceeding
-          CSGOEmpire
+          SciSpace
         </p>
        
         <div style={{ marginTop: 30, position: "relative" }}>
